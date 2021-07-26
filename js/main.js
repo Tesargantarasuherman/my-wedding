@@ -1,4 +1,5 @@
 ;(function () {
+
 	
 	'use strict';
 
@@ -230,3 +231,16 @@
 
 
 }());
+$( document ).ready(function() {
+	$(window).scroll(function(){
+		if($(document).scrollTop() > 400){
+		  $('.btn-scroll').css({'display': 'none'});
+		  $('.btn-scroll').transition('3s');
+		}
+		else{
+			$('.btn-scroll').css({'display': 'block'});
+			$('.btn-scroll').transition('3s');
+		}
+	  });
+});
+
