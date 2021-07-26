@@ -233,7 +233,7 @@
 }());
 $( document ).ready(function() {
 	$(window).scroll(function(){
-		if($(document).scrollTop() > 400){
+		if($(document).scrollTop() > 350){
 		  $('.btn-scroll').css({'display': 'none'});
 		  $('.btn-scroll').transition('3s');
 		}
