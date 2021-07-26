@@ -1,9 +1,9 @@
 
 TITLE: 
-Wedding - 100% Fully Responsive Free HTML5 Bootstrap Template
+Akad Nikah : Sabtu, 07 Agustus 2021
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co
+Tesar 
 
 Website: http://gettemplates.co/
 Twitter: http://twitter.com/gettemplatesco
